@@ -43,6 +43,7 @@ Initial Dictionary
 
 
 Selected Features
+
 The word cloud on the right shows the 65 independent variables put in the semi-supervising machine learning model. 
 
 ![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture9.jpg)
