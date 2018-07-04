@@ -48,6 +48,7 @@ The word cloud on the right shows the 65 independent variables put in the semi-s
 ![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture9.jpg)
 
 Model Evaluation
+
 Here we create 10 classifier chains. Each classifier chain contains a logistic regression model for each of the 21 labels. The models in each chain are ordered randomly.
 We apply Jaccard Similarity Score to evaluate our model.
 Score of ensemble model is around 40%, for a multi-label text data classification issue with more than 20 labels, it is an acceptable result.
@@ -81,6 +82,7 @@ US, China, Saudi Arabia, Denmark, and Sweden are applied with darker color. They
 ![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture6.jpg)
 
 Topic Modeling Results Comparison
+
 “Defend” is the most important topic in developed country, which may indicate the developed countries are attacked in a high frequency. 
 The topic difference in different continents are vague, which can show the cyber security issues happen almost evenly in each continent.
 
@@ -88,16 +90,20 @@ The topic difference in different continents are vague, which can show the cyber
 
 Conclusions
 
-This project well produces a sentence classifier machine for the raw text data classification and tagging process without enough professional terminology dictionary. 
-“Standard” is the most important category in the labeling process.
-The topic modeling results vary a lot in country’s development level but perform similarly in the continental dimension. 
+1.This project well produces a sentence classifier machine for the raw text data classification and tagging process without enough professional terminology dictionary.
+
+2.“Standard” is the most important category in the labeling process.
+
+3.The topic modeling results vary a lot in country’s development level but perform similarly in the continental dimension. 
 
 Future Research
 
 1.Sentence Tokenize
 Improve the performance of tokenizer through recognizing the complete sentence structure and entities extraction. 
+
 2.Word directory
 Through more documents on cybersecurity, we may improve the performance of word directory for classification to make it more precise and complete.
+
 3.Rules optimization
 Generate specific contents on rules for each sentence and comparing the cyber security document of each country to the UN cyber security requirements to check its completeness.
 
