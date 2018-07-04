@@ -39,7 +39,7 @@ There are two rules should be satisfied together for the sentence classification
 
 Initial Dictionary
 
-![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/picture3.JPG)
+![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/picture8.JPG)
 
 
 Selected Features
