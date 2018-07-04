@@ -39,7 +39,7 @@ There are two rules should be satisfied together for the sentence classification
 
 Initial Dictionary
 
-![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture8.jpg)
+![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture8.JPG)
 
 
 Selected Features
@@ -58,7 +58,7 @@ Score of ensemble model is around 40%, for a multi-label text data classificatio
 
 Sample Results
 
-![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture3.jpg)
+![image](https://github.com/zhangbojian/Let-data-tell-story/blob/master/Picture3.JPG)
 
 Overall Label Results 
 
